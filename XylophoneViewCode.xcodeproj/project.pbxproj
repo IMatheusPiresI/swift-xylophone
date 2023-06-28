@@ -9,21 +9,39 @@
 /* Begin PBXBuildFile section */
 		7BDCD4CD2A4CA11200042C4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4CC2A4CA11200042C4E /* AppDelegate.swift */; };
 		7BDCD4CF2A4CA11200042C4E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4CE2A4CA11200042C4E /* SceneDelegate.swift */; };
-		7BDCD4D12A4CA11200042C4E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4D02A4CA11200042C4E /* ViewController.swift */; };
 		7BDCD4D42A4CA11200042C4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4D22A4CA11200042C4E /* Main.storyboard */; };
 		7BDCD4D62A4CA11500042C4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4D52A4CA11500042C4E /* Assets.xcassets */; };
 		7BDCD4D92A4CA11500042C4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4D72A4CA11500042C4E /* LaunchScreen.storyboard */; };
+		7BDCD4E32A4CA60400042C4E /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4E22A4CA60400042C4E /* HomeScreen.swift */; };
+		7BDCD4E52A4CA65700042C4E /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4E42A4CA65700042C4E /* HomeController.swift */; };
+		7BDCD4E92A4CC1F400042C4E /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCD4E82A4CC1F400042C4E /* Button.swift */; };
+		7BDCD4F32A4CD6EA00042C4E /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4EC2A4CD6EA00042C4E /* D.wav */; };
+		7BDCD4F42A4CD6EA00042C4E /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4ED2A4CD6EA00042C4E /* C.wav */; };
+		7BDCD4F52A4CD6EA00042C4E /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4EE2A4CD6EA00042C4E /* B.wav */; };
+		7BDCD4F62A4CD6EA00042C4E /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4EF2A4CD6EA00042C4E /* A.wav */; };
+		7BDCD4F72A4CD6EA00042C4E /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4F02A4CD6EA00042C4E /* E.wav */; };
+		7BDCD4F82A4CD6EA00042C4E /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4F12A4CD6EA00042C4E /* F.wav */; };
+		7BDCD4F92A4CD6EA00042C4E /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7BDCD4F22A4CD6EA00042C4E /* G.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7BDCD4C92A4CA11200042C4E /* XylophoneViewCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XylophoneViewCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BDCD4CC2A4CA11200042C4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BDCD4CE2A4CA11200042C4E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7BDCD4D02A4CA11200042C4E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7BDCD4D32A4CA11200042C4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7BDCD4D52A4CA11500042C4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BDCD4D82A4CA11500042C4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BDCD4DA2A4CA11500042C4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BDCD4E22A4CA60400042C4E /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HomeScreen.swift; path = ../../../HomeScreen.swift; sourceTree = "<group>"; };
+		7BDCD4E42A4CA65700042C4E /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
+		7BDCD4E82A4CC1F400042C4E /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
+		7BDCD4EC2A4CD6EA00042C4E /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		7BDCD4ED2A4CD6EA00042C4E /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		7BDCD4EE2A4CD6EA00042C4E /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		7BDCD4EF2A4CD6EA00042C4E /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		7BDCD4F02A4CD6EA00042C4E /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		7BDCD4F12A4CD6EA00042C4E /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		7BDCD4F22A4CD6EA00042C4E /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +74,64 @@
 		7BDCD4CB2A4CA11200042C4E /* XylophoneViewCode */ = {
 			isa = PBXGroup;
 			children = (
+				7BDCD4EB2A4CD6D800042C4E /* Sounds */,
+				7BDCD4E62A4CC1D500042C4E /* Components */,
+				7BDCD4E12A4CA5E100042C4E /* Controllers */,
+				7BDCD4E02A4CA5D800042C4E /* View */,
 				7BDCD4CC2A4CA11200042C4E /* AppDelegate.swift */,
 				7BDCD4CE2A4CA11200042C4E /* SceneDelegate.swift */,
-				7BDCD4D02A4CA11200042C4E /* ViewController.swift */,
 				7BDCD4D22A4CA11200042C4E /* Main.storyboard */,
 				7BDCD4D52A4CA11500042C4E /* Assets.xcassets */,
 				7BDCD4D72A4CA11500042C4E /* LaunchScreen.storyboard */,
 				7BDCD4DA2A4CA11500042C4E /* Info.plist */,
 			);
 			path = XylophoneViewCode;
+			sourceTree = "<group>";
+		};
+		7BDCD4E02A4CA5D800042C4E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7BDCD4E22A4CA60400042C4E /* HomeScreen.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7BDCD4E12A4CA5E100042C4E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				7BDCD4E42A4CA65700042C4E /* HomeController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		7BDCD4E62A4CC1D500042C4E /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				7BDCD4E72A4CC1DE00042C4E /* Button */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		7BDCD4E72A4CC1DE00042C4E /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				7BDCD4E82A4CC1F400042C4E /* Button.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		7BDCD4EB2A4CD6D800042C4E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				7BDCD4EF2A4CD6EA00042C4E /* A.wav */,
+				7BDCD4EE2A4CD6EA00042C4E /* B.wav */,
+				7BDCD4ED2A4CD6EA00042C4E /* C.wav */,
+				7BDCD4EC2A4CD6EA00042C4E /* D.wav */,
+				7BDCD4F02A4CD6EA00042C4E /* E.wav */,
+				7BDCD4F12A4CD6EA00042C4E /* F.wav */,
+				7BDCD4F22A4CD6EA00042C4E /* G.wav */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +192,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BDCD4F62A4CD6EA00042C4E /* A.wav in Resources */,
 				7BDCD4D92A4CA11500042C4E /* LaunchScreen.storyboard in Resources */,
+				7BDCD4F32A4CD6EA00042C4E /* D.wav in Resources */,
+				7BDCD4F82A4CD6EA00042C4E /* F.wav in Resources */,
 				7BDCD4D62A4CA11500042C4E /* Assets.xcassets in Resources */,
+				7BDCD4F52A4CD6EA00042C4E /* B.wav in Resources */,
+				7BDCD4F92A4CD6EA00042C4E /* G.wav in Resources */,
 				7BDCD4D42A4CA11200042C4E /* Main.storyboard in Resources */,
+				7BDCD4F72A4CD6EA00042C4E /* E.wav in Resources */,
+				7BDCD4F42A4CD6EA00042C4E /* C.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +212,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7BDCD4D12A4CA11200042C4E /* ViewController.swift in Sources */,
+				7BDCD4E32A4CA60400042C4E /* HomeScreen.swift in Sources */,
+				7BDCD4E92A4CC1F400042C4E /* Button.swift in Sources */,
 				7BDCD4CD2A4CA11200042C4E /* AppDelegate.swift in Sources */,
 				7BDCD4CF2A4CA11200042C4E /* SceneDelegate.swift in Sources */,
+				7BDCD4E52A4CA65700042C4E /* HomeController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,8 +368,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,8 +394,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
